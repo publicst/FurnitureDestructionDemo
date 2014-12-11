@@ -1,4 +1,4 @@
-Initialize engine version: 4.6.0f3 (30840d631a27)
+Initialize engine version: 4.6.1f1 (d1db7a1b5196)
 GfxDevice: creating device client; threaded=1
 Direct3D:
     Version:  Direct3D 11.0 [level 11.0]
@@ -6,19 +6,19 @@ Direct3D:
     Vendor:   NVIDIA
     VRAM:     1990 MB
 Begin MonoManager ReloadAssembly
-Platform assembly: D:\Export\DestroyFurniture\DestroyFurniture_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading D:\Export\DestroyFurniture\DestroyFurniture_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: D:\Export\DestroyFurniture\DestroyFurniture_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading D:\Export\DestroyFurniture\DestroyFurniture_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: D:\Export\DestroyFurniture\DestroyFurniture_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading D:\Export\DestroyFurniture\DestroyFurniture_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-Platform assembly: D:\Export\DestroyFurniture\DestroyFurniture_Data\Managed\LeapCSharp.NET3.5.dll (this message is harmless)
-Loading D:\Export\DestroyFurniture\DestroyFurniture_Data\Managed\LeapCSharp.NET3.5.dll into Unity Child Domain
-- Completed reload, in  0.186 seconds
+Platform assembly: D:\SourceTree\FurnitureDestructionDemo\FurnitureDestructionExport\DestroyFurniture_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\SourceTree\FurnitureDestructionDemo\FurnitureDestructionExport\DestroyFurniture_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\SourceTree\FurnitureDestructionDemo\FurnitureDestructionExport\DestroyFurniture_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\SourceTree\FurnitureDestructionDemo\FurnitureDestructionExport\DestroyFurniture_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\SourceTree\FurnitureDestructionDemo\FurnitureDestructionExport\DestroyFurniture_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\SourceTree\FurnitureDestructionDemo\FurnitureDestructionExport\DestroyFurniture_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\SourceTree\FurnitureDestructionDemo\FurnitureDestructionExport\DestroyFurniture_Data\Managed\LeapCSharp.NET3.5.dll (this message is harmless)
+Loading D:\SourceTree\FurnitureDestructionDemo\FurnitureDestructionExport\DestroyFurniture_Data\Managed\LeapCSharp.NET3.5.dll into Unity Child Domain
+- Completed reload, in  0.043 seconds
 <RI> Initializing input.
 <RI> Input initialized.
 desktop: 1920x1080 60Hz; virtual: 3840x1080 at 0,0
-Platform assembly: D:\Export\DestroyFurniture\DestroyFurniture_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\SourceTree\FurnitureDestructionDemo\FurnitureDestructionExport\DestroyFurniture_Data\Managed\System.Core.dll (this message is harmless)
 WARNING: Shader Unsupported: 'Reflective/VertexLit' - Pass '' shader state not supported
 createHull: convex hull computation failed!
  
@@ -28,7 +28,31 @@ createHull: convex hull computation failed!
  
 (Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 53)
 
-Platform assembly: D:\Export\DestroyFurniture\DestroyFurniture_Data\Managed\System.dll (this message is harmless)
+ConvexMesh::loadConvexHull: convex hull init failed!
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 497)
+
+ConvexMesh::loadConvexHull: convex hull init failed!
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 497)
+
+createHull: convex hull computation failed!
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 53)
+
+!"Adjacencies: found non-manifold mesh!"
+ 
+(Filename: ..\..\Core\Common\src\IceAdjacencies.cpp Line: 785)
+
+Adjacencies::CreateDatabase: can't work on non-manifold meshes.
+ 
+(Filename: ..\..\Core\Common\src\IceAdjacencies.cpp Line: 786)
+
+createHull: convex hull computation failed!
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 53)
+
+Platform assembly: D:\SourceTree\FurnitureDestructionDemo\FurnitureDestructionExport\DestroyFurniture_Data\Managed\System.dll (this message is harmless)
 createHull: convex hull computation failed!
  
 (Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 53)
@@ -53,34 +77,29 @@ createHull: convex hull computation failed!
  
 (Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 53)
 
-createHull: convex hull computation failed!
+ConvexMesh::loadConvexHull: convex hull init failed!
  
-(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 53)
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 497)
 
-UnloadTime: 59.625668 ms
-createHull: convex hull computation failed!
+ConvexMesh::loadConvexHull: convex hull init failed!
  
-(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 53)
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 497)
 
-createHull: convex hull computation failed!
+ConvexMesh::loadConvexHull: convex hull init failed!
  
-(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 53)
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 497)
 
-createHull: convex hull computation failed!
+ConvexMesh::loadConvexHull: convex hull init failed!
  
-(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 53)
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 497)
 
-createHull: convex hull computation failed!
+ConvexMesh::loadConvexHull: convex hull init failed!
  
-(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 53)
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 497)
 
-createHull: convex hull computation failed!
+ConvexMesh::loadConvexHull: convex hull init failed!
  
-(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 53)
-
-createHull: convex hull computation failed!
- 
-(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 53)
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 497)
 
 createHull: convex hull computation failed!
  
@@ -90,10 +109,45 @@ createHull: convex hull computation failed!
  
 (Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 53)
 
-Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+createHull: convex hull computation failed!
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 53)
 
-Unloading 1544 unused Assets to reduce memory usage. Loaded Objects now: 13688.
-Total: 9.113395 ms (FindLiveObjects: 0.553846 ms CreateObjectMapping: 0.114071 ms MarkObjects: 3.006979 ms  DeleteObjects: 5.134709 ms)
+!"Adjacencies: found non-manifold mesh!"
+ 
+(Filename: ..\..\Core\Common\src\IceAdjacencies.cpp Line: 785)
+
+Adjacencies::CreateDatabase: can't work on non-manifold meshes.
+ 
+(Filename: ..\..\Core\Common\src\IceAdjacencies.cpp Line: 786)
+
+createHull: convex hull computation failed!
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 53)
+
+!"Adjacencies: found non-manifold mesh!"
+ 
+(Filename: ..\..\Core\Common\src\IceAdjacencies.cpp Line: 785)
+
+Adjacencies::CreateDatabase: can't work on non-manifold meshes.
+ 
+(Filename: ..\..\Core\Common\src\IceAdjacencies.cpp Line: 786)
+
+createHull: convex hull computation failed!
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 53)
+
+!"Adjacencies: found non-manifold mesh!"
+ 
+(Filename: ..\..\Core\Common\src\IceAdjacencies.cpp Line: 785)
+
+Adjacencies::CreateDatabase: can't work on non-manifold meshes.
+ 
+(Filename: ..\..\Core\Common\src\IceAdjacencies.cpp Line: 786)
+
+createHull: convex hull computation failed!
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 53)
 
 createHull: convex hull computation failed!
  
