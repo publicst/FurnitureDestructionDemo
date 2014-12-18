@@ -1,6 +1,8 @@
 FurnitureDestructionDemo
 ========================
 
+https://developer.leapmotion.com/libraries/303
+
 Walk around house, destroy furniture! 
 
 Supports Oculus Rift 0.4.4
